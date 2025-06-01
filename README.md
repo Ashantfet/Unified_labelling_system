@@ -195,7 +195,7 @@ The approach demonstrates a scalable, human-free labeling workflow that is both 
 ---
 
 # 👨‍💻 Authors
-
-- **Sandeep Kumar** (CS24M112)  
-- **Ashant Kumar** (CS24M113)  
+ 
+- **Ashant Kumar** (CS24M113)
+- **Sandeep Kumar** (CS24M112) 
 - **Abhishek Kumar** (CS24M120)  
